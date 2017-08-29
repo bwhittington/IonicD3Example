@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "hmb.gradacademy.labfive"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "hmb.gradacademy.labfive"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "hmb.gradacademy.labfive"
+        },
+        "cordova-plugin-filepath": {
+            "PACKAGE_NAME": "hmb.gradacademy.labfive"
+        }
+    },
+    "dependent_plugins": {}
+}
